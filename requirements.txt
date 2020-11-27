@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+requests
+pymongo==3.4
+dnspython
